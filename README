@@ -1,0 +1,27 @@
+Home Exercise 5
+CREATED BY :Tal Tabak ,  ID : 203664487 .
+
+Program description:
+In "Home Exercise 5" we are required to implement a simulation of the paging system in the memory management
+of operating systems. 
+we have an array (main memory) which represents RAM , two file fd's to represent the exe file and the swap,
+and an array of structs (page_table) to represent the page table.  
+
+
+Program files: 
+sim_mem.hh - header file.
+sim_mem.cpp - contains the functions.
+main.cpp -the main.
+makefile - to compile the program.
+
+
+Compile and running: 
+In Visual Studio code
+To compile: Ctrl + shift + b 
+To run: Ctrl + f5 
+
+
+Input: 
+from the main.
+Output:
+all data structures of the program.
