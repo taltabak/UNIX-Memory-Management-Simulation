@@ -1,9 +1,9 @@
-Home Exercise 5
-CREATED BY :Tal Tabak ,  ID : 203664487 .
 
-Program description:
-In "Home Exercise 5" we are required to implement a simulation of the paging system in the memory management
-of operating systems. 
+CREATED BY :Tal Tabak.
+
+Description:
+This program implements a simulation of the paging system in the memory management
+of operating systems in UNIX. 
 we have an array (main memory) which represents RAM , two file fd's to represent the exe file and the swap,
 and an array of structs (page_table) to represent the page table.  
 
